@@ -1,20 +1,32 @@
+import java.util.HashMap;
+
 class Solution {
+
     public int[] twoSum(int[] nums, int target) {
-        int[] ans = new int[2];
-        for(int i=0;i<nums.length;i++)
-        {
-            int a = nums[i];
-            for(int j=i+1;j<nums.length;j++)
-            {
-                int b = nums[j];
-                if(a+b==target)
-                {
-                    ans[0]=i;
-                    ans[1]=j;
-                    break;
-                }
+
+        // Stores: number -> index
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        // Traverse the array once
+        for (int i = 0; i < nums.length; i++) {
+
+            // Find the number needed to reach target
+            int need = target - nums[i];
+
+            // Check if the needed number was already seen
+            if (map.containsKey(need)) {
+
+                // Pair found
+                // Return index of needed number and current index
+                return new int[] { map.get(need), i };
             }
+
+            // Store current number and its index
+            // so future elements can use it
+            map.put(nums[i], i);
         }
-        return ans;
+
+        // No pair found (usually not reached in LeetCode)
+        return new int[] { -1, -1 };
     }
 }
