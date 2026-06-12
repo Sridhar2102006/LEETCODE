@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sridhar2102006/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sridhar2102006/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sridhar2102006/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,8 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Sridhar2102006/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sridhar2102006/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sridhar2102006/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Sridhar2102006/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
