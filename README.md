@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sridhar2102006/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sridhar2102006/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Sridhar2102006/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,5 +34,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sridhar2102006/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Sridhar2102006/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sridhar2102006/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
