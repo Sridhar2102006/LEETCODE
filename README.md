@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sridhar2102006/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sridhar2102006/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sridhar2102006/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sridhar2102006/LEETCODE/tree/main/0344-reverse-string/) | Easy |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sridhar2102006/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Sridhar2102006/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sridhar2102006/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sridhar2102006/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
